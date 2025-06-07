@@ -44,19 +44,19 @@ export default function DailyWeather({ weather }) {
         week.map((daily, index) => {
           const IconComponent = getWeatherIcon(daily.weathercode);
           return (
-            <dl key={index} className="text-center flex items-center text-gray-900 dark:text-white dark:divide-gray-700">
-                <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
+            <dl key={index} className="text-center flex text-gray-900 dark:text-white dark:divide-gray-700">
+                <div className="flex flex-col py-3 flex-1 border-b border-gray-200 justify-center">
                     <dd className="text-lg">{format(parseISO(daily.date), "M/d(E)", { locale: ja })}</dd>
                 </div>
-                <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
+                <div className="flex flex-col py-3 flex-1 border-b border-gray-200 justify-center">
                     <dd className="text-lg font-semibold flex justify-center items-center">
                       {IconComponent && <IconComponent  size={40} className={getWeatherColor(daily.weathercode)} />}
                     </dd>
                 </div>
-                <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
+                <div className="flex flex-col py-3 flex-1 border-b border-gray-200 justify-center">
                     <dd className="text-lg font-semibold text-blue-500">{daily.minTemp}</dd>
                 </div>
-                <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
+                <div className="flex flex-col py-3 flex-1 border-b border-gray-200 justify-center">
                     <dd className="text-lg font-semibold text-red-500">{daily.maxTemp}</dd>
                 </div>
             </dl>
