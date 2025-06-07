@@ -1,0 +1,114 @@
+{
+  "0": {
+    "icon": "WiDaySunny",
+    "description": "快晴"
+  },
+  "1": {
+    "icon": "WiDaySunnyOvercast",
+    "description": "主に晴れ"
+  },
+  "2": {
+    "icon": "WiDayCloudy",
+    "description": "曇りがち"
+  },
+  "3": {
+    "icon": "WiCloudy",
+    "description": "曇り"
+  },
+  "45": {
+    "icon": "WiFog",
+    "description": "霧"
+  },
+  "48": {
+    "icon": "WiFog",
+    "description": "霧（霧氷を含む）"
+  },
+  "51": {
+    "icon": "WiSprinkle",
+    "description": "弱い霧雨"
+  },
+  "53": {
+    "icon": "WiSprinkle",
+    "description": "中程度の霧雨"
+  },
+  "55": {
+    "icon": "WiShowers",
+    "description": "強い霧雨"
+  },
+  "56": {
+    "icon": "WiSprinkle",
+    "description": "弱い凍結性霧雨"
+  },
+  "57": {
+    "icon": "WiShowers",
+    "description": "強い凍結性霧雨"
+  },
+  "61": {
+    "icon": "WiRain",
+    "description": "弱い雨"
+  },
+  "63": {
+    "icon": "WiRain",
+    "description": "中程度の雨"
+  },
+  "65": {
+    "icon": "WiRain",
+    "description": "強い雨"
+  },
+  "66": {
+    "icon": "WiRainMix",
+    "description": "弱い凍結性雨"
+  },
+  "67": {
+    "icon": "WiRainMix",
+    "description": "強い凍結性雨"
+  },
+  "71": {
+    "icon": "WiSnow",
+    "description": "弱い雪"
+  },
+  "73": {
+    "icon": "WiSnow",
+    "description": "中程度の雪"
+  },
+  "75": {
+    "icon": "WiSnow",
+    "description": "強い雪"
+  },
+  "77": {
+    "icon": "WiSnowflakeCold",
+    "description": "雪粒"
+  },
+  "80": {
+    "icon": "WiShowers",
+    "description": "弱いにわか雨"
+  },
+  "81": {
+    "icon": "WiRain",
+    "description": "中程度のにわか雨"
+  },
+  "82": {
+    "icon": "WiThunderstorm",
+    "description": "激しいにわか雨"
+  },
+  "85": {
+    "icon": "WiSnow",
+    "description": "弱いにわか雪"
+  },
+  "86": {
+    "icon": "WiSnow",
+    "description": "強いにわか雪"
+  },
+  "95": {
+    "icon": "WiThunderstorm",
+    "description": "雷雨"
+  },
+  "96": {
+    "icon": "WiStormShowers",
+    "description": "雷雨（弱い雹）"
+  },
+  "99": {
+    "icon": "WiStormShowers",
+    "description": "雷雨（強い雹）"
+  }
+}

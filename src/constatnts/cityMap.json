@@ -1,0 +1,492 @@
+{
+  "北海道": {
+    "location": "北海道",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 43.06417,
+    "longitude": 141.34694
+  },
+  "青森県": {
+    "location": "青森県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 40.82444,
+    "longitude": 140.74
+  },
+  "岩手県": {
+    "location": "岩手県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 39.70361,
+    "longitude": 141.1525
+  },
+  "宮城県": {
+    "location": "宮城県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 38.26889,
+    "longitude": 140.87194
+  },
+  "秋田県": {
+    "location": "秋田県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 39.71861,
+    "longitude": 140.1025
+  },
+  "山形県": {
+    "location": "山形県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 38.24056,
+    "longitude": 140.36333
+  },
+  "福島県": {
+    "location": "福島県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 37.75,
+    "longitude": 140.46778
+  },
+  "茨城県": {
+    "location": "茨城県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.34139,
+    "longitude": 140.44667
+  },
+  "栃木県": {
+    "location": "栃木県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.56583,
+    "longitude": 139.88361
+  },
+  "群馬県": {
+    "location": "群馬県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.39111,
+    "longitude": 139.06083
+  },
+  "埼玉県": {
+    "location": "埼玉県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.85694,
+    "longitude": 139.64889
+  },
+  "千葉県": {
+    "location": "千葉県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.60472,
+    "longitude": 140.12333
+  },
+  "東京都": {
+    "location": "東京都",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.68944,
+    "longitude": 139.69167
+  },
+  "神奈川県": {
+    "location": "神奈川県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.44778,
+    "longitude": 139.6425
+  },
+  "新潟県": {
+    "location": "新潟県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 37.90222,
+    "longitude": 139.02361
+  },
+  "富山県": {
+    "location": "富山県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.69528,
+    "longitude": 137.21139
+  },
+  "石川県": {
+    "location": "石川県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.59444,
+    "longitude": 136.62556
+  },
+  "福井県": {
+    "location": "福井県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.06528,
+    "longitude": 136.22194
+  },
+  "山梨県": {
+    "location": "山梨県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.66389,
+    "longitude": 138.56833
+  },
+  "長野県": {
+    "location": "長野県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 36.65139,
+    "longitude": 138.18111
+  },
+  "岐阜県": {
+    "location": "岐阜県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.39111,
+    "longitude": 136.72222
+  },
+  "静岡県": {
+    "location": "静岡県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.97694,
+    "longitude": 138.38306
+  },
+  "愛知県": {
+    "location": "愛知県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.18028,
+    "longitude": 136.90667
+  },
+  "三重県": {
+    "location": "三重県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.73028,
+    "longitude": 136.50861
+  },
+  "滋賀県": {
+    "location": "滋賀県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.00444,
+    "longitude": 135.86833
+  },
+  "京都府": {
+    "location": "京都府",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.02139,
+    "longitude": 135.75556
+  },
+  "大阪府": {
+    "location": "大阪府",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.68639,
+    "longitude": 135.52
+  },
+  "兵庫県": {
+    "location": "兵庫県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.69139,
+    "longitude": 135.18306
+  },
+  "奈良県": {
+    "location": "奈良県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.68528,
+    "longitude": 135.83278
+  },
+  "和歌山県": {
+    "location": "和歌山県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.22611,
+    "longitude": 135.1675
+  },
+  "鳥取県": {
+    "location": "鳥取県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.50361,
+    "longitude": 134.23833
+  },
+  "島根県": {
+    "location": "島根県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 35.47222,
+    "longitude": 133.05056
+  },
+  "岡山県": {
+    "location": "岡山県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.66167,
+    "longitude": 133.935
+  },
+  "広島県": {
+    "location": "広島県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.39639,
+    "longitude": 132.45944
+  },
+  "山口県": {
+    "location": "山口県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.18583,
+    "longitude": 131.47139
+  },
+  "徳島県": {
+    "location": "徳島県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.06583,
+    "longitude": 134.55944
+  },
+  "香川県": {
+    "location": "香川県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 34.34028,
+    "longitude": 134.04333
+  },
+  "愛媛県": {
+    "location": "愛媛県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 33.84167,
+    "longitude": 132.76611
+  },
+  "高知県": {
+    "location": "高知県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 33.55972,
+    "longitude": 133.53111
+  },
+  "福岡県": {
+    "location": "福岡県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 33.60639,
+    "longitude": 130.41806
+  },
+  "佐賀県": {
+    "location": "佐賀県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 33.24944,
+    "longitude": 130.29889
+  },
+  "長崎県": {
+    "location": "長崎県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 32.74472,
+    "longitude": 129.87361
+  },
+  "熊本県": {
+    "location": "熊本県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 32.78972,
+    "longitude": 130.74167
+  },
+  "大分県": {
+    "location": "大分県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 33.23806,
+    "longitude": 131.6125
+  },
+  "宮崎県": {
+    "location": "宮崎県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 31.91111,
+    "longitude": 131.42389
+  },
+  "鹿児島県": {
+    "location": "鹿児島県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 31.56028,
+    "longitude": 130.55806
+  },
+  "沖縄県": {
+    "location": "沖縄県",
+    "country": "Japan",
+    "type": "prefecture",
+    "latitude": 26.2125,
+    "longitude": 127.68111
+  },
+  "ニューヨーク": {
+    "location": "ニューヨーク",
+    "country": "USA",
+    "type": "world_city",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  "ロンドン": {
+    "location": "ロンドン",
+    "country": "UK",
+    "type": "world_city",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  "パリ": {
+    "location": "パリ",
+    "country": "France",
+    "type": "world_city",
+    "latitude": 48.8566,
+    "longitude": 2.3522
+  },
+  "ベルリン": {
+    "location": "ベルリン",
+    "country": "Germany",
+    "type": "world_city",
+    "latitude": 52.52,
+    "longitude": 13.405
+  },
+  "モスクワ": {
+    "location": "モスクワ",
+    "country": "Russia",
+    "type": "world_city",
+    "latitude": 55.7558,
+    "longitude": 37.6173
+  },
+  "北京": {
+    "location": "北京",
+    "country": "China",
+    "type": "world_city",
+    "latitude": 39.9042,
+    "longitude": 116.4074
+  },
+  "上海": {
+    "location": "上海",
+    "country": "China",
+    "type": "world_city",
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  "ソウル": {
+    "location": "ソウル",
+    "country": "South Korea",
+    "type": "world_city",
+    "latitude": 37.5665,
+    "longitude": 126.978
+  },
+  "シンガポール": {
+    "location": "シンガポール",
+    "country": "Singapore",
+    "type": "world_city",
+    "latitude": 1.3521,
+    "longitude": 103.8198
+  },
+  "バンコク": {
+    "location": "バンコク",
+    "country": "Thailand",
+    "type": "world_city",
+    "latitude": 13.7563,
+    "longitude": 100.5018
+  },
+  "デリー": {
+    "location": "デリー",
+    "country": "India",
+    "type": "world_city",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  "ドバイ": {
+    "location": "ドバイ",
+    "country": "UAE",
+    "type": "world_city",
+    "latitude": 25.276987,
+    "longitude": 55.296249
+  },
+  "カイロ": {
+    "location": "カイロ",
+    "country": "Egypt",
+    "type": "world_city",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  "ヨハネスブルグ": {
+    "location": "ヨハネスブルグ",
+    "country": "South Africa",
+    "type": "world_city",
+    "latitude": -26.2041,
+    "longitude": 28.0473
+  },
+  "シドニー": {
+    "location": "シドニー",
+    "country": "Australia",
+    "type": "world_city",
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  "メルボルン": {
+    "location": "メルボルン",
+    "country": "Australia",
+    "type": "world_city",
+    "latitude": -37.8136,
+    "longitude": 144.9631
+  },
+  "トロント": {
+    "location": "トロント",
+    "country": "Canada",
+    "type": "world_city",
+    "latitude": 43.65107,
+    "longitude": -79.347015
+  },
+  "サンパウロ": {
+    "location": "サンパウロ",
+    "country": "Brazil",
+    "type": "world_city",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  "メキシコシティ": {
+    "location": "メキシコシティ",
+    "country": "Mexico",
+    "type": "world_city",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  "ロサンゼルス": {
+    "location": "ロサンゼルス",
+    "country": "USA",
+    "type": "world_city",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  "サンフランシスコ": {
+    "location": "サンフランシスコ",
+    "country": "USA",
+    "type": "world_city",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  "シアトル": {
+    "location": "シアトル",
+    "country": "USA",
+    "type": "world_city",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  "バンクーバー": {
+    "location": "バンクーバー",
+    "country": "Canada",
+    "type": "world_city",
+    "latitude": 49.2827,
+    "longitude": -123.1207
+  }
+}
