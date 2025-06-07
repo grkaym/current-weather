@@ -5,7 +5,7 @@ import cityMap from "../constatnts/cityMap.json";
 const cities = Object.keys(cityMap);
 
 export default function CityInput({ onSelect }) {
-  const [inputValue, setInputValue] = useState('東京都');
+  const [inputValue, setInputValue] = useState('福岡県');
 
   return (
     <Autocomplete

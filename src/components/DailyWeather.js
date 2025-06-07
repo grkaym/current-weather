@@ -22,8 +22,6 @@ export default function DailyWeather({ weather }) {
     week.push(dailyObj);
   }
 
-  console.log(week);
-
   return(
     <div>
       <dl className="w-full text-center flex text-gray-900 dark:text-white dark:divide-gray-700">
