@@ -74,7 +74,7 @@ export default function WeatherInfo({ cityName }) {
           </dl>
         </div>
       </div>
-      <hr className="text-gray-200 my-4" />
+      <hr className="text-gray-200 mt-3" />
       <DailyWeather weather={weather} />
     </>
   );

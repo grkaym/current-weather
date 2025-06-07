@@ -27,17 +27,17 @@ export default function DailyWeather({ weather }) {
   return(
     <div>
       <dl className="w-full text-center flex text-gray-900 dark:text-white dark:divide-gray-700">
-        <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
-            <dt className="mb-1 text-gray-500 md:text-lg dark:text-gray-400">日付</dt>
+        <div className="flex flex-col py-3 flex-1 border-b border-gray-200 justify-center">
+            <dt className="text-gray-500 md:text-lg dark:text-gray-400">日付</dt>
         </div>
         <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
-            <dt className="mb-1 text-gray-500 md:text-lg dark:text-gray-400">天気</dt>
+            <dt className="text-gray-500 md:text-lg dark:text-gray-400">天気</dt>
         </div>
         <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
-            <dt className="mb-1 text-gray-500 md:text-lg dark:text-gray-400">最低気温</dt>
+            <dt className="text-gray-500 md:text-lg dark:text-gray-400">最低気温</dt>
         </div>
         <div className="flex flex-col py-3 flex-1 border-b border-gray-200">
-            <dt className="mb-1 text-gray-500 md:text-lg dark:text-gray-400">最高気温</dt>
+            <dt className="text-gray-500 md:text-lg dark:text-gray-400">最高気温</dt>
         </div>
       </dl>
       {
