@@ -8,7 +8,7 @@ export default function WeatherInfo({ cityName }) {
   const [weather, setWeather] = useState({});
   const [loading, setLoading] = useState(true);
   // 都市情報
-  const city = cityName ? cityMap[cityName] : cityMap["東京都"];
+  const city = cityName ? cityMap[cityName] : cityMap["福岡県"];
   
   // useEffectは「コンポーネントがマウントされた直後」「依存配列にある値が変わったとき」に実行される
   useEffect(() => {
